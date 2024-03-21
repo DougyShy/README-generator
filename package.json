@@ -1,0 +1,22 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "Application to create a professional README file via command-line prompts",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DougyShy/README-generator.git"
+  },
+  "author": "Clinton Scheible",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DougyShy/README-generator/issues"
+  },
+  "homepage": "https://github.com/DougyShy/README-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
