@@ -1,7 +1,7 @@
-# asdf
-asdf 
+# sdfg
+sdfg 
 
-[![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
 ## Table of Contents
 
@@ -14,29 +14,29 @@ asdf
 
 ## Installation
 
-asdf
+sdfg
 
 ## Usage
 
-asdf
+dsfg
 
 ## License
 
- - The current lincense for this project is: Boost Software License 1.0
+ - The current lincense for this project is: GNU Affero General Public License v3.0
 
 ## Tests
 
-asdf
+dsfg
 
 ## Contributions
 
-asdf
+dfgdfg
 
 ## Questions
 
-GitHub Profile: https://github.com/asdf
+GitHub Profile: https://github.com/sdfg
 
-E-mail: asdf
+E-mail: sdfg
 
  - Other ways to contact me:
-    - asdf
+    - sdfg
