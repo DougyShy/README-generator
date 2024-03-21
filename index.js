@@ -35,10 +35,6 @@ const getLicenseBadge = license => {
     }
 }
 
-const getBilly = () => {
-    return "BILLY";
-}
-
 const generateREADME = ( { title, description, installation, usage, contributions, tests, license, githubUserName, email, additionalInfo } ) =>    
 `# ${title}
 ${description} 
