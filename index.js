@@ -1,8 +1,6 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
 
-console.log("README-SCRIPT");
-
 const getLicenseBadge = license => {
     switch(license) {
         case "None":
@@ -26,7 +24,7 @@ const getLicenseBadge = license => {
         case 'GNU Affero General Public License v3.0':
             return '[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)';
         case 'GNU Lesser Generic Public License v2.1':
-            return '[![License: LGPL v3](https://img.shields.io/badge/License-LGPL_v3-blue.svg)](https://www.gnu.org/licenses/lgpl-2.1)'; // 2.1 (?) - this was only bad available - defaults to 'v3'
+            return '[![License: LGPL v3](https://img.shields.io/badge/License-LGPL_v3-blue.svg)](https://www.gnu.org/licenses/lgpl-2.1)'; // 2.1 (?) - this was only badge available - defaults to 'v3'
         case 'Mozilla Public License 2.0':
             return '[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)';
         case 'The Unlicense':
