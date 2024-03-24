@@ -1,5 +1,5 @@
-# sdfg
-sdfg 
+# Professional README Generator
+This project allows the user to create a professional README file by simply answering a few questions and making a choice or two. 
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
@@ -14,11 +14,11 @@ sdfg
 
 ## Installation
 
-sdfg
+No installation is necessary for this project. Dependencies are listed below.
 
 ## Usage
 
-dsfg
+This project will allow the user to input specific information about their own project which will then create a templated professional README.md file
 
 ## License
 
@@ -26,17 +26,17 @@ dsfg
 
 ## Tests
 
-dsfg
+No testing instructions
 
 ## Contributions
 
-dfgdfg
+Clinton Scheible
 
 ## Questions
 
-GitHub Profile: https://github.com/sdfg
+GitHub Profile: https://github.com/DougyShy
 
-E-mail: sdfg
+E-mail: doug_scheible@yahoo.com
 
  - Other ways to contact me:
-    - sdfg
+    - I am available by text or phone at 123.456.7890
