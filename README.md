@@ -18,7 +18,9 @@ No installation is necessary for this project. Dependencies are listed below.
 
 ## Usage
 
-This project will allow the user to input specific information about their own project which will then create a templated professional README.md file
+This project will allow the user to input specific information about their own project which will then create a templated professional README.md file+
+
+Here is a short walkthrough video on YouTube: https://youtu.be/VzjbJiCz9Fc
 
 ## License
 
